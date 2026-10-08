@@ -1,1 +1,3 @@
-name: Nina Bednarek
+Name: Nina Bednarek
+"University PJATK"
+"Student id: s37387"
